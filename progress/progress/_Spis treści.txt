@@ -1,0 +1,19 @@
+https://github.com/Kisioj/PyMeteorDodger/commits/master
+
+1. Czarne okienko o dobrej rozdzielczoœci
+2. Wyœwietlanie nieruchomego t³a
+3. Wyswietlanie nieruchomego tla w lepszej wersji - z get_rect()
+4. Wyswietlanie statku w pozycji 0,0
+5. Statek rusza sie na górze mapy, za szybko i wychodzi poza jej granice
+6. Statek juz sie rusza z dobra predkoscia, ale na gorze mapki i wychodzi za granice
+7. Statek juz sie rusza dobrze, ale wychodzi poza granice mapki
+8. Statek juz rusza sie dobrze i nie wychodzi nigdzie :)
+9. Przesuwajace sie tlo z gory na dol
+10. Zastapiono spaceship_rect za pomoca obiektu spaceship typu GameObject
+11. Dodano spadajace meteory i ich usuwanie po wylocie za ekran
+12. Dodano mechanizm konca gry i napis game over
+13. Sprawdzanie kolizji przy uzyciu malego prostokata statku
+14. Dodanie zbierania bonusow, ale jeszcze bez punktacji
+15. Wyswietlanie ilosci punktow, oraz wyswietlanie game over nad meteorami
+16. Dodanie obrotu kapsulek oraz meteorow, a takze zmniejszenie regionu small_rect
+17. Dodano dzwiek przy zebraniu kapsulki
